@@ -20,7 +20,7 @@ Regional Insights:
 The majority of respondents are from the United States, followed by the United Kingdom and India.
 
 #How to Use
-Download the Power BI file: "C:\Users\hp\Downloads\Data_Professional_Survey_Dashboard.pdf"
+Download the Power BI file: Data_Professional_Survey_Dashboard.pbix.
 Open in Power BI Desktop to explore the dashboard.
 Interact with filters to view salary, programming language, and region-based insights.
 Explore the raw data using Data_Professional_Survey_Data.xlsx to understand the data structure.
